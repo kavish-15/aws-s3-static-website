@@ -15,5 +15,8 @@ This project demonstrates hosting a static website using Amazon S3.
 4. Enabled static website hosting
 5. Configured bucket policy for public access
 
+## live website
+http://kavish-portfolio-2026.s3-website.ap-south-1.amazonaws.com
+
 ## Outcome
 Successfully deployed a static website using AWS Free Tier. 
